@@ -16,7 +16,7 @@ java {
 }
 
 dependencies {
-    implementation("com.google.cloud:google-cloud-storage:2.41.0")
+    implementation("com.google.cloud:google-cloud-storage:2.42.0")
     testImplementation("org.junit.jupiter:junit-jupiter:5.10.3")
     testImplementation("org.assertj:assertj-core:3.26.3")
     testImplementation("org.testcontainers:junit-jupiter:1.20.1")
