@@ -16,7 +16,7 @@ java {
 }
 
 dependencies {
-    implementation("com.google.cloud:google-cloud-storage:2.49.0")
+    implementation("com.google.cloud:google-cloud-storage:2.52.0")
 
     testImplementation("org.junit.jupiter:junit-jupiter:5.11.4")
     testImplementation("org.testcontainers:junit-jupiter:1.21.1")
