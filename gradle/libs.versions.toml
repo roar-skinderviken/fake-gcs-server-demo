@@ -1,5 +1,5 @@
 [versions]
-junit-jupiter-version = "5.13.0"
+junit-jupiter-version = "5.13.1"
 assertj-core-version = "3.27.3"
 testcontainers-junit-version = "1.21.2"
 testcontainers-gcloud-version = "1.21.2"
