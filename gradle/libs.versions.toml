@@ -1,0 +1,15 @@
+[versions]
+junit-jupiter-version = "5.13.0"
+assertj-core-version = "3.27.3"
+testcontainers-junit-version = "1.21.2"
+testcontainers-gcloud-version = "1.21.2"
+google-cloud-storage-version = "2.52.3"
+junit-platform-launcher-version = "1.13.1"
+
+[libraries]
+google-cloud-storage = { module = "com.google.cloud:google-cloud-storage", version.ref = "google-cloud-storage-version" }
+junit-jupiter = { module = "org.junit.jupiter:junit-jupiter", version.ref = "junit-jupiter-version" }
+junit-platform-launcher = { module = "org.junit.platform:junit-platform-launcher", version.ref = "junit-platform-launcher-version" }
+assertj-core = { module = "org.assertj:assertj-core", version.ref = "assertj-core-version" }
+testcontainers-junit = { module = "org.testcontainers:junit-jupiter", version.ref = "testcontainers-junit-version" }
+testcontainers-gcloud = { module = "org.testcontainers:gcloud", version.ref = "testcontainers-gcloud-version" }
