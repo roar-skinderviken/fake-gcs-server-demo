@@ -3,7 +3,7 @@ junit-jupiter-version = "5.13.4"
 assertj-core-version = "3.27.3"
 testcontainers-junit-version = "1.21.3"
 testcontainers-gcloud-version = "1.21.3"
-google-cloud-storage-version = "2.54.0"
+google-cloud-storage-version = "2.60.0"
 junit-platform-launcher-version = "1.13.4"
 
 [libraries]
