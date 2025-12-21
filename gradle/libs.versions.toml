@@ -4,7 +4,7 @@ assertj-core-version = "3.27.6"
 testcontainers-junit-version = "1.21.3"
 testcontainers-gcloud-version = "1.21.3"
 google-cloud-storage-version = "2.60.0"
-junit-platform-launcher-version = "1.13.4"
+junit-platform-launcher-version = "6.0.1"
 
 [libraries]
 google-cloud-storage = { module = "com.google.cloud:google-cloud-storage", version.ref = "google-cloud-storage-version" }
