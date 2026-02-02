@@ -1,6 +1,6 @@
 [versions]
 junit-jupiter-version = "6.0.2"
-assertj-core-version = "3.27.6"
+assertj-core-version = "3.27.7"
 testcontainers-junit-version = "1.21.4"
 testcontainers-gcloud-version = "1.21.4"
 google-cloud-storage-version = "2.61.0"
